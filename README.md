@@ -12,4 +12,10 @@ here' s some of the features i ve implemented in black fox:
 
 5)Extensions icons in url bar ,honestly i think fenix + ublock is really a killer combo so i wanted its icon to be always visible in url bar!
 
+6)Data collection and analitycs disabled by default.
+
+7)no tracking adds or so whatever! if you like or find my work useful just donate:
+https://www.paypal.com/donate?hosted_button_id=X7RUVKKWHKTVN
+
+
 if you find any bugs or have suggestions just open a issue i'll do my best to manage them.
