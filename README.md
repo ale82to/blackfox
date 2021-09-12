@@ -21,5 +21,5 @@ here' s some of the features i ve implemented in black fox:
 
 Screenshots:
 [![1631468985.png](https://i.postimg.cc/sft2jPws/1631468985.png)](https://postimg.cc/Lh3Sv1cb)
-[![1631468978.png](https://i.postimg.cc/sft2jPws/1631468978.png)](https://postimg.cc/Lh3Sv1cb)
+[![1631468985.png](https://i.postimg.cc/Qtt25PNw/1631468985.png)](https://postimg.cc/KK6ph0MD)
 if you find any bugs or have suggestions just open a issue i'll do my best to manage them.
