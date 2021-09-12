@@ -15,7 +15,7 @@ here' s some of the features i ve implemented in black fox:
 6)Data collection and analitycs disabled by default.
 
 7)no tracking adds or so whatever! if you like or find my work useful just donate:
-<a href="https://www.paypal.com/donate?hosted_button_id=X7RUVKKWHKTVN 
+<a href="https://www.paypal.com/donate?hosted_button_id=X7RUVKKWHKTVN > 
 <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 
