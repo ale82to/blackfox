@@ -12,9 +12,10 @@ here' s some of the features i ve implemented in black fox:
 
 5)Extensions icons in url bar ,honestly i think fenix + ublock is really a killer combo so i wanted its icon to be always visible in url bar!
 
-6)Data collection and analitycs disabled by default.
+6)Unlimited addons throught your custom collection!
 
-7)no tracking adds or so whatever! if you like or find my work useful just donate:
+7)Data collection and analitycs disabled by default,
+no tracking adds or so whatever! if you like or find my work useful just donate:
 <a href="https://www.paypal.com/donate?hosted_button_id=X7RUVKKWHKTVN" > 
 <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
