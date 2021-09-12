@@ -19,5 +19,8 @@ here' s some of the features i ve implemented in black fox:
 <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 
+Some screenshots:
+[![1631468985.png](https://i.postimg.cc/sft2jPws/1631468978.png)](https://postimg.cc/Lh3Sv1cb)
 
+[![1631468978.png](https://i.postimg.cc/sft2jPws/1631468978.png)](https://postimg.cc/Lh3Sv1cb)
 if you find any bugs or have suggestions just open a issue i'll do my best to manage them.
