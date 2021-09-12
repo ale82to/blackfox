@@ -20,7 +20,8 @@ no tracking adds or so whatever! if you like or find my work useful just donate:
 <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 
-Screenshots:
+
 [![1631468985.png](https://i.postimg.cc/sft2jPws/1631468985.png)](https://postimg.cc/Lh3Sv1cb)
 [![1631468985.png](https://i.postimg.cc/Qtt25PNw/1631468985.png)](https://postimg.cc/KK6ph0MD)
+
 if you find any bugs or have suggestions just open a issue i'll do my best to manage them.
